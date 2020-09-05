@@ -65,3 +65,5 @@ Vous devez utiliser:
 * des variables pour identifier le projet et la zone de traitement
 * un fichier data data pour calculer le réseau par défaut et le projet par défaut, ce dernier via une variable
 * un output pour obtenir directement l'adresse ip du serveur web.
+
+# Vous pouvez détruire votre infrastructure une fois les captures d'écran obtenues
