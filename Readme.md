@@ -53,6 +53,9 @@ dans le réseau par défaut de votre projet
 * Une règle de pare-feu pour autoriser la connexion ssh de l'internet vers les instances internes (ex. "mouton")
 
 ### Remise
+La remise du devoir se fera en 2 parties soit une sur moodle et l'autre sur GitHub.  
+*Aucune autre forme ou format ne seront acceptés.*
+
 #### Moodle
 Sur Moodle, vous remettrez un fichier *PDF* nommé "matricule-Nom_Prénom.PDF"
 Le fichier contiendra:
